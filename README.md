@@ -1,3 +1,15 @@
+# E-commerce API
+
+This project implements an e-commerce API that allows users to retrieve product information from different companies and categories. 
+
+## Features
+
+- Retrieve top N products within a specific category and company.
+- Filter products by price range.
+- Sort products by rating, price, company, or discount in ascending or descending order.
+- Pagination support for large result sets.
+- Generate unique identifiers for each product in the response.
+- Retrieve details of a specific product by its unique ID.
 ![Screenshot from 2024-06-01 12-50-04](https://github.com/ayushsachan123/2100290100044/assets/97084090/ebd546d0-4219-4989-b7d3-cc1aa34d2265)
 ![Screenshot from 2024-06-01 12-49-54](https://github.com/ayushsachan123/2100290100044/assets/97084090/fbc50ef5-51be-44c9-a13a-1ffd8138ea9b)
 ![Screenshot from 2024-06-01 12-49-52](https://github.com/ayushsachan123/2100290100044/assets/97084090/370c8023-0472-462f-8adb-ec71438693d2)
